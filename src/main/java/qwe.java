@@ -1,3 +1,5 @@
 public class qwe {
-    public void ss(){}
+    public void ss(){
+        System.out.println("sad s");
+    }
 }
